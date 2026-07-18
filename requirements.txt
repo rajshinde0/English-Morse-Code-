@@ -1,0 +1,12 @@
+# This project uses only the Python standard library - there is nothing
+# to pip install.
+#
+#   tkinter   - user interface (bundled with Python on Windows and macOS;
+#               on Linux install the system package, e.g. python3-tk)
+#   winsound  - audio playback (bundled with Python on Windows)
+#   wave, array, math, io, json, csv, datetime, unittest - standard library
+#
+# pygame is used only as an optional audio fallback on non-Windows systems.
+# Install it if you want sound there:
+#
+#   pip install pygame

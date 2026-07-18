@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Personal translation history (created at runtime)
+history.json
+
+# Previous version of the project - kept locally, not published
+_old_version/
+
+# Exported files
+*.wav
+morse_history.csv
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
